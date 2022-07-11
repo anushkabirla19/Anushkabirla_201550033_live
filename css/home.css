@@ -67,7 +67,7 @@
 .home{
     display: flex;
     background: url("../assets/WhatsApp\ Image\ 2022-07-11\ at\ 5.34.54\ PM.jpeg") no-repeat center;
-    height: 95vh;
+    height: 94vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
@@ -113,6 +113,7 @@
     width: 200px;
     height: 50px;
     background: transparent;
+    margin-left: 10px;
     color: #fff;
     font-size: 16px;
     text-transform: uppercase;
